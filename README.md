@@ -14,7 +14,7 @@ Check out my personel website: [lakhoune.com](https://lakhoune.com/) for more in
 
 You can contact me on [![LinkedIn][2.2]][2] for professional inquiries.
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/lakhoune/lakhoune/main/linkedin-svgrepo-com.svg
 
 [2]: https://www.linkedin.com/in/ben-lakhoune-235712223
 <!--
