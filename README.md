@@ -3,7 +3,7 @@
 Glad, you made it. I'm Ben and I am passionate about Open Source Software. I am currently enrolled in a Master's degree at [RWTH Aachen](https://www.rwth-aachen.de/). During my 2 years as a research assistent for [@rwth-acis](https://github.com/rwth-acis), I have developed a strong set of skills and knowledge. I am skilled in Data Mining and Full-Stack Development and have the great pleasure to be working on the [tech4comp](https://tech4comp.de/) project.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning: module bundling (rollup.js, vitejs,...)
+- 🌱 I’m currently learning: Next.js
 - 🧠 Favorite quote: "There are only two hard things in Computer Science: cache invalidation and naming things" (Phil Karlton)
 - ⚡️ Favorite stack: MEAN 
 
