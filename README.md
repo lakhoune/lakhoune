@@ -7,7 +7,6 @@ Glad, you made it. I'm Ben and I am passionate about Open Source Software. I am 
 - 🧠 Favorite quote: "There are only two hard things in Computer Science: cache invalidation and naming things" (Phil Karlton)
 - ⚡️ Favorite stack: MEAN 
 
-
 ## 📫 How to reach me
 
 Check out my personel website: [lakhoune.com](https://lakhoune.com/) for more information about me.
